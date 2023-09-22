@@ -1,0 +1,13 @@
+---
+title: "Lab3"
+output: html_document
+date: "2023-09-22"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+## Placeholder for website
